@@ -10,7 +10,7 @@ Additional - It helps in minimising the code as well as quite easy to learn and 
 <br>
 Table of contents - Employee Database using HTML, JS, bootstrap and JPDB.
 <br>
-Illustrations - Run the code to see the live output in your browser.
+Illustrations - Run the code to see the live output in your browser - https://meeralin.github.io/TrialTaskJPDB/
 <br>
 Scope of functionalities - Worldwide, till your creativeness persists.
 <br>
